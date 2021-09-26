@@ -1,0 +1,13 @@
+.cart-design{
+    padding: 20px;
+    border: solid 2px lightgrey;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color:lightgrey;
+}
+.button-color{
+    background-color:rgb(21, 241, 113);
+    border-radius: 2px;
+    border: solid 1px lightgrey;
+    padding: 10px;
+}

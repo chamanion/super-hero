@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Amit Shariar",
+      "profession": "Web developer",
+      "place": "America",
+      "age": 34,
+      "img": "https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 49000
+    },
+    {
+      "name": "Alezabet Queen",
+      "profession": "Application developer",
+      "place": "majistan",
+      "age": 34,
+      "img": "https://images.pexels.com/photos/935756/pexels-photo-935756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 20000
+    },
+    {
+      "name": "Amita Shariar",
+      "profession": "Senior Web Developer",
+      "place": "China Swoftware",
+      "age": 32,
+      "img": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 30000
+    },
+    {
+      "name": "Ketrina Paul",
+      "profession": "Junior Web developer",
+      "place": "Unesco",
+      "age": 38,
+      "img": "https://images.pexels.com/photos/3727464/pexels-photo-3727464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 54000
+    },
+    {
+      "name": "Avida Smith",
+      "profession": "Swoftware Analytics",
+      "place": "India",
+      "age": 44,
+      "img": "https://images.pexels.com/photos/840996/pexels-photo-840996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 40000
+    },
+    {
+      "name": "Sultan Hosain",
+      "profession": "Web developer",
+      "place": "Bangladesh",
+      "age": 35,
+      "img": "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 55000
+    },
+    {
+      "name": "Shajain crush",
+      "profession": "Website reconcile",
+      "place": "Cananda",
+      "age": 28,
+      "img": "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 60000
+    },
+    {
+      "name": "Alva Shariar",
+      "profession": "Application developer",
+      "place": "Tunish",
+      "age": 33,
+      "img": "https://images.pexels.com/photos/3059747/pexels-photo-3059747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 67000
+    },
+    {
+      "name": "Smita Smith",
+      "profession": "Sowftware developer",
+      "place": "Nasirabad",
+      "age": 41,
+      "img": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "salary": 55000
+    }
+  ]

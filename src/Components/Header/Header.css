@@ -1,0 +1,13 @@
+.header{
+    margin-top: 10px;
+    padding-top: 40px;
+    background-color:teal;
+    color: white;
+    padding-bottom: 60px;
+    
+}
+.header-div{
+    border: solid 1px white;
+    margin-left: 250px;
+    margin-right: 250px;
+}
